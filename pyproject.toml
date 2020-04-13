@@ -1,11 +1,11 @@
 [tool.poetry]
 name = "sqlalchemy_mptt-stubs"
-version = "0.0.2"
+version = "0.0.3"
 description = "Stubs for sqlalchemy_mptt"
 authors = ["ssfdust <ssfdust@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github/ssfdust/sqlalchemy_mptt-stubs"
+repository = "https://github.com/ssfdust/sqlalchemy_mptt-stubs"
 
 packages = [
     {include = "sqlalchemy_mptt-stubs"}
