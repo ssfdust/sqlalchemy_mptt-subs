@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sqlalchemy_mptt-stubs"
-version = "0.0.3"
+version = "0.0.4"
 description = "Stubs for sqlalchemy_mptt"
 authors = ["ssfdust <ssfdust@gmail.com>"]
 license = "MIT"
@@ -13,7 +13,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "^3.8"
-sqlalchemy-stubs = "^0.3"
+sqlalchemy-stubs = "^0.4"
 sqlalchemy_mptt = "^0.2.5"
 
 [tool.poetry.dev-dependencies]
